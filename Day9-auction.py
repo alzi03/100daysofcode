@@ -39,7 +39,10 @@ def auction():
       break
     
 auction()
-      
+     
+  
+#NOTE can set a variable as false and use it to run while loop. while (variable), run loop to ask over and over. if user says no, then set equal to true
+#much easier than setting multiple new variables, keep in mind for futur euse
     
     
   
