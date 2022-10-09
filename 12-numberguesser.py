@@ -24,7 +24,7 @@ def guesscheck(g,n,m):
       
 
 def play():
-  #choose difficult
+  #choose difficulty
   mode = difficulty[input('Welcome to the Number Guessing Game!\nI\'m thinking of a number between 1 and 100.\nChoose a difficulty (easy/hard): ').lower()]
   num = random.randrange(1,101)
   print(num)
